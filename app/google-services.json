@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051952794699",
+    "project_id": "authentest-f78ab",
+    "storage_bucket": "authentest-f78ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051952794699:android:5df0eee58c6688c038d1ce",
+        "android_client_info": {
+          "package_name": "com.example.authenfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051952794699-dic6kh760j0vlduqro789hok5n9j4scc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnFT5kFdp4te8RK6DtITvq43280Kc1HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051952794699-dic6kh760j0vlduqro789hok5n9j4scc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
